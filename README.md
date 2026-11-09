@@ -1,4 +1,4 @@
-# 🌊 Arduino-Based River Water Level Monitoring System
+#  Arduino-Based River Water Level Monitoring System
 
 **An Arduino-based river water level monitoring prototype developed during FOSSEE Hardware Makethon at IIT Bombay.**
 
